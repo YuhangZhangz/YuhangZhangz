@@ -5,9 +5,6 @@
 - 🌱 Currently learning: system design, Docker, and distributed systems
 - 👀 Interested in software engineering internships and backend development roles
 - 📫 Reach me: [yuhangz@bu.edu](mailto:yuhangz@bu.edu) | [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🔨 My recent projects: rental app tracker (Node.js + MongoDB), campus utility app (Kotlin + Firebase)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I started coding by building a recipe web app to help my parents digitize family dishes!
 
 <!---
 YuhangZhangz/YuhangZhangz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
